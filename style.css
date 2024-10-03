@@ -150,9 +150,16 @@ aside .indice a {
 		width: auto;
 		flex: 1;
 	}
-
+#video{
+	  width: 500%;
+    height: 50dvh;
+    object-fit: cover;
+    position: flex;
+    top: 100;
+    left: 0;
+}
 	.contenedor-imagen {
-		height: 50vh;
+		height: 25vh;
 	}
 
 	main .contenedor {
